@@ -2,7 +2,7 @@ export const FamilyMember = (person, chores) => {
     return `
         <section class="familyMember">
             <header>
-                <h2>${person.name}</h2>
+                <h4>${person.name}</h4>
             </header>
             <div>
                 <ol>
