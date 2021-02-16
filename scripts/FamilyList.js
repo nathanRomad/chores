@@ -12,7 +12,6 @@ let chores = []
 let people = []
 let peopleChores = []
 
-
 /*
     Main component logic function
 */
